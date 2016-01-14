@@ -1,6 +1,6 @@
 name: ChrisH
 favicon: null
-layout_spectrum: 0.11505853361450136
+layout_spectrum: 1
 typography_spectrum: 0.3612321144901216
 cta:
   domain: null
@@ -23,6 +23,6 @@ color:
     - '#CEAFC0'
   brandStrength: 0.6291499075014144
   lightness: 0.28698558476753533
-  saturation: 0.015617728931829333
+  saturation: 0
   rhythmicContrast: 0.3168205835390836
 purpose: []
